@@ -1,0 +1,3 @@
+name: Robin Hartanto Honggare
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
